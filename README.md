@@ -1,0 +1,2 @@
+# Vocabulary_Trainer
+Task is to program a small and fast vocabulary trainer. Two small example files with vocabularies for professions and animals given in german and english language are given for tests. The vocabulary trainer shall be realised by a so called associative array. An associative array is an array which uses strings instead of natural numbers as indices, which are called keys. Since they are often used for electronic dictionaries associative arrays are called dictionaries, too.
